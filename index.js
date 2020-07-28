@@ -14,6 +14,7 @@ function deleteFromObjectByKey(object, key) {
   newObj
   delete newObj.key
   newObj
+  recipes
   return newObj
 }
 
